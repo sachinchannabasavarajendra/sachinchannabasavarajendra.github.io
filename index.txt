@@ -1,24 +1,25 @@
-vCard - Personal Portfolio
+Sachin | Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Sachin Channabasavarajendra
+Sachin Channabasavarajendra
+Software Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+sachinc97@gmail.com
+channabasavarajend.s@northeastern.edu
 
 Phone
-+1 (213) 352-2795
++1 (551) 359-1591
 
 Birthday
 June 23, 1982
 
 Location
-Sacramento, California, USA
+Boston, Massachusetts, USA
 
 # navbar
 
